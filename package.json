@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "supertest": "^6.3.3"
+  },
+  "name": "takapi",
+  "version": "1.0.0",
+  "description": "belajar",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "ram",
+  "license": "ISC"
+}
